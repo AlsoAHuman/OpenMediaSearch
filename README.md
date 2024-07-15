@@ -5,4 +5,4 @@ If not, the program will open a media search engine of the searched term in the 
 
 ## Usage
 
-    movie "movie title"
+    movie <movie title>
