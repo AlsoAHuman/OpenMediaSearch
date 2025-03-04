@@ -6,3 +6,6 @@ If not, the program will open a media search engine of the searched term in the 
 ## Usage
 
     movie <movie title>
+
+## NOTE
+Could be heavily improved and will not be actively developed unless people take interest
